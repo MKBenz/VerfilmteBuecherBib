@@ -1,0 +1,48 @@
+body 
+	{
+		background-image: url("books2.jpg");
+		background-attachment: scroll;
+		/*background-repeat: no-repeat;*/
+		
+		font-family:Maiandra GD, "lucida console", sans-serif;
+		max-width: 1050px;
+		padding: 0 ;
+		border: 25px solid gray;
+		margin: 200px;
+		margin-top: 0;
+		    display: block;
+			position: relative;
+			max-width: 1024px;
+			margin: 0px auto;
+	}
+
+h1 {
+	color: #450306;
+	font-size: 40pt;
+	font-family: Lucida Handwriting;
+}
+
+h2
+	{color: #1f637a}
+
+p 
+	{color: #52707a;} 
+	
+.header{
+	background-color:white;
+	color:red;
+	padding: 0;
+	margin: 0;
+}
+	
+.text-center
+	{
+		text-align: center;
+	}
+	
+.hintergrund {
+	padding: 20px;
+	background: #efe3db;
+}
+
+
